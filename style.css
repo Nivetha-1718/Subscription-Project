@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+       
+
+}
+body{
+    font-family: 'Gabarito', sans-serif;
+
+}
+
+.navbar{
+    background-color: pink;
+    color: black;
+    text-align: center;
+}
+.subscription__title{
+    text-align: center;
+    margin-top:19px;
+    font-size: 30px;
+    
+}
+.sub{
+    
+    text-align: center;
+
+}
+.subscription{
+    background-color: black;
+    color: white;
+    width: 20%;
+    height: 400px;
+    border-radius: 5%;
+   display: inline-block;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right:30px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.subscription__desc{
+    border: solid white 2px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: auto;
+    border-radius:7% ;
+    font-size: 20px;
+    width: 250px;
+    height: 200px;
+    text-align:left;
+}
+.subscription__desc p{
+    margin-top: 10px;
+}
+.subscription__desc i{
+    display: inline-block;
+    text-align: left;
+}
