@@ -13,6 +13,9 @@ Welcome to Subsription Project contains the source code for a Subscription proje
 
 - **HTML:** For structuring the content, including the pricing table and subscription details.
 - **CSS:** For styling the layout, designing the pricing table, and ensuring responsive design.
+- - **Font Awesome:** Utilized for icons in user interface elements.
+- **Google Fonts:** Applied for enhanced typography and custom font styles.
+  
 
 ## Live Demo
 
