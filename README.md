@@ -30,4 +30,5 @@ Check out the live version of the Subscription project [here](#).
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or want to add features, feel free to open an issue or submit a pull request.
-This description highlights the different subscription options and provides a clear overview of your project.
+
+Thank you for exploring the Subscription project! If you have any questions or feedback, please reach out or open an issue on GitHub.
