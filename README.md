@@ -19,7 +19,7 @@ Welcome to Subsription Project contains the source code for a Subscription proje
 
 ## Live Demo
 
-Check out the live version of the Subscription project [here](#).
+Check out the live version of the Subscription project [https://nivetha-1718.github.io/Subscription-Project/]
 
 ## CSS Styles
 - **Subscription Plans:** Users can choose between three subscription options: Free, Standard, and Premium, each with its own set of features.
